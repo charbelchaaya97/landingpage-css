@@ -1,0 +1,552 @@
+body{
+    margin: 0 !important;
+}
+
+.welcome-page{
+  
+      background-image: url('./images/MaskGroup50271.png');
+      background-size: cover;         /* Ensure the image covers the entire container */
+      background-position: center;    /* Center the image */
+      background-repeat: no-repeat;   /* Prevent the image from repeating */
+      width: 100%;                     /* Full width */
+      height: 690px;                  /* Set the desired height */
+                         /* Remove default padding */   
+                         .button-footer{
+                            margin-top: 40%;
+                            margin-left: 5%;
+                            background-color: white;
+                            color: #373464;
+                            font-size: 21px;
+                            border-radius: 12px;
+                            height: 50px;
+                            width: 260px;
+                            border:none;
+                          
+                        }
+                        
+}
+
+
+.advantages{
+  
+.p-why{
+    color: #373464;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+
+}
+.p-advantages{
+color:#202020 ;
+font-size: 40px;
+text-align: center;
+margin-top: -1px;
+
+}
+.advantages-img{
+    width: 35px;
+    height: 35px;
+    margin-bottom: 22px;
+    margin-right: 10px;
+   
+}
+.p-own-visa{
+    color:#373464 ;
+}
+
+.advantages-3{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+.advantages-img1{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.your-child{
+    background-color: #E2F2FA;
+    width: 100%;
+    height: 400px;  
+}
+.p-your-child{
+    color: #202020;
+    font-size: 40px;
+    text-align: center;
+}
+.p-give{
+    color: #6B6B6B;
+    font-size: 22px;
+    text-align: center;
+}
+
+}
+.your-child{
+
+
+.p-your-child{
+    color: #202020;
+    font-size: 40px;
+    text-align: center;
+}
+.p-give{
+    color: #6B6B6B;
+    font-size: 17px;
+    text-align: center;
+}
+.your-child-img{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    gap: 20px;
+
+}
+.your-child-img-1{
+    width: 290px !important;
+    height: 290px !important;
+}
+
+}
+.visa{
+    
+    justify-content:space-around;
+    display:flex;
+    
+.visa-right{
+    margin-top: 5%;
+}
+    .visa-right-img{
+        width: 100%;
+        height: 450px;
+        min-width: 300px;
+    }
+    .visa-left{
+        display: flex;
+        flex-direction: column;
+    }
+    .visa-left-2{
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: center;
+    }
+}
+
+.receiving-money{
+    background-color: #E2F2FA;
+    display: flex;
+    flex-wrap: nowrap;
+justify-content: space-around;   
+align-items: center;
+
+    .receiving-money-img-1{
+        width: 100%;
+        height: 550px;
+margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .receiving-money-p{
+        margin: 20px;
+    }
+    .receiving-money-p-1{
+        display: flex;
+        align-items: center;
+    }
+.receiving-money-img-3{
+    width: 35px;
+    height: 35px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+}
+.more-value{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    
+    align-self: center;
+    .more-value-left{
+        align-self: center;
+    }
+
+    .more-value-right{
+        display: flex;
+        flex-wrap: nowrap;
+        overflow-x: scroll;
+      
+        margin-top: 40px;
+        margin-bottom: 30px;
+
+        .more-value-img{
+            margin: 25px;
+            width:100%;
+            height: 350px;
+        }
+
+    }
+}
+.how-to-open{
+    background-color: #E2F2FA;
+     .how-to-open-flex{
+        display: flex;
+        justify-content: space-around;
+
+     }
+    .how-to-open-img{
+        width: 35px;
+        height: 35px;
+
+     }
+
+
+     .how-to-open-buttom{
+       
+        background-color:#373464;
+        color: white;
+        font-size: 16px;
+        border-radius: 10px;
+        height: 40px;
+        width: 220px;
+        border:none;
+        text-align: center;
+       
+        
+    
+     }
+     .how-to-open-button-0{
+      
+        justify-content: center;
+        text-align: center;
+        margin-bottom: 25px;
+        margin: 20px;
+        padding: 40px;
+     }
+
+}
+
+.stay-tuned{
+    display: flex;
+    justify-content: space-around;
+  align-items: center;
+
+  .stay-tuned-right-img{
+    width: 100%;
+    height: 500px;
+  }
+}
+
+.call-me{
+    background-color: #33C6F4;
+    display: flex;
+    justify-content: space-around;
+
+   .call-me-left{
+    justify-content: center;
+
+
+    }
+    .call-me-buttom-1{
+    background-color:#373464;
+    color: white;
+    font-size: 16px;
+    border-radius: 10px;
+    height: 40px;
+    width: 220px;
+    border:none;
+   }
+
+    .call-me-right-img{
+        width: 100%;
+        height: 400px;
+    }
+    
+
+
+}
+.merchant-network{
+    text-align: center;
+
+    .merchant-network-img{
+    display: flex;
+    overflow-x: scroll;
+    flex-wrap: none;
+    justify-content: center;
+gap: 40px;
+    }
+    .merchant-network-img-1{
+        width: 120px;
+        height: 90px;
+    }
+    .merchant-network-buttom-1{
+        background-color:#373464;
+        color: white;
+        font-size: 16px;
+        border-radius: 10px;
+        height: 40px;
+        width: 180px;
+        border:none;
+    }
+    .merchant-network-buttom{
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 25px;
+    margin: 20px;
+    padding: 40px;}
+    }
+
+
+    .get-your-child{
+        background-color: #F4FEFF;
+        text-align: center;
+
+
+        .get-your-child-buttom{
+            justify-content: center;
+            text-align: center;
+            margin-bottom: 25px;
+            margin: 20px;
+            padding: 20px;
+        }
+        .get-your-child-buttom-1{
+            background-color:#373464;
+            color: white;
+            font-size: 16px;
+            border-radius: 10px;
+            height: 40px;
+            width: 180px;
+            border:none;
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 450px) {
+    .visa{
+        flex-direction: column;
+    }
+
+}
+
+
+
+
+
+
+
+/* For 350px and below */
+@media (max-width: 350px) {
+  
+
+
+      .call-me-right-img{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    
+    .welcome-page {
+        height: 550px; /* Adjust height for smaller screens */
+    }
+
+    .button-footer {
+        width: 200px; /* Make button smaller */
+        font-size: 18px; /* Smaller text */
+        margin-top: 50%; /* Adjust vertical position */
+    }
+
+    .advantages-3 {
+        flex-direction: column; /* Stack advantages vertically */
+        align-items: center;
+    }
+
+    .your-child-img {
+        gap: 10px; /* Reduce the gap between images */
+    }
+
+    .your-child-img-1 {
+        width: 250px; /* Smaller images */
+        height: 250px;
+    }
+
+    .visa-left-2 {
+        flex-direction: column; /* Stack items vertically */
+        align-items: center;
+    }
+
+    .visa-right-img {
+        height: 300px; /* Smaller image on the right */
+    }
+    .more-value{
+        flex-direction: column;
+    }
+
+    .more-value-right {
+        margin-top: 20px;
+        margin-bottom: 20px;
+       
+    }
+
+    .more-value-img {
+        width: 90%; /* Scale images down */
+        height: 250px;
+    }
+
+    .how-to-open-flex {
+        flex-direction: column; /* Stack images and text vertically */
+        align-items: center;
+    }
+
+    .how-to-open-img {
+        width: 30px; /* Smaller icons */
+        height: 30px;
+    }
+
+    .how-to-open-buttom {
+        width: 180px; /* Smaller button */
+        font-size: 14px;
+    }
+.visa{
+    flex-direction: column;
+}
+    .stay-tuned {
+        flex-direction: column; /* Stack items vertically */
+        align-items: center;
+    }
+
+    .stay-tuned-right-img {
+        width: 90%;
+        height: 350px;
+    }
+    .receiving-money{
+        flex-direction: column;
+    }
+    .welcome-page{
+        position: relative;
+    }
+    .button-footer{
+        position: absolute;
+        top: 60% !important;
+    }
+    .call-me{
+        flex-direction: column;
+        
+    }
+    body{
+        margin: 0 !important;
+    }
+  
+}
+
+
+
+
+/* For 750px and below */
+@media (max-width: 750px) {
+    body{
+        margin: 0 !important;
+    }
+  
+    
+    .call-me{
+      
+        flex-direction: column;
+        
+    }
+    .welcome-page{
+        position: relative;
+    }
+    .button-footer{
+        position: absolute;
+        top: 30%;
+    }
+    .welcome-page {
+        height: 600px; /* Adjust height */
+    }
+
+    .button-footer {
+        width: 220px; /* Adjust button size */
+        font-size: 19px;
+        margin-top: 45%;
+    }
+
+    .advantages-3 {
+        flex-direction: column; /* Stack items */
+        align-items: center;
+    }
+
+    .your-child-img {
+        gap: 15px;
+    }
+
+    .your-child-img-1 {
+        width: 270px;
+        height: 270px;
+    }
+
+    .visa-left-2 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .visa-right-img {
+        height: 400px;
+    }
+
+    .more-value-right {
+        margin-top: 30px;
+    }
+
+    .more-value-img {
+        width: 90%;
+        height: 300px;
+    }
+
+    .how-to-open-flex {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .how-to-open-img {
+        width: 35px;
+        height: 35px;
+    }
+
+    .how-to-open-buttom {
+        width: 200px;
+        font-size: 15px;
+    }
+
+    .stay-tuned {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .stay-tuned-right-img {
+        width: 90%;
+        height: 400px;
+    }
+    .call-me-right-img{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
